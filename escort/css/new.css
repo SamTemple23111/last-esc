@@ -1,0 +1,171 @@
+
+
+
+
+.col-md-6 { 
+    position: relative; 
+    min-height: 1px; 
+    padding-right: 15px; 
+    padding-left: 15px;
+} 
+
+@media (min-width: 992px){ 
+  .col-md-6 { 
+    float: left;
+  } 
+
+  .col-md-6 { 
+    width: 50%;
+  } 
+}     
+
+h3 { 
+    font-family: inherit; 
+    font-weight: 500; 
+    line-height: 1.1; 
+    color: inherit;
+} 
+
+h3 { 
+    margin-top: 20px; 
+    margin-bottom: 10px;
+} 
+
+h3 { 
+    font-size: 24px;
+} 
+
+h3 { 
+    font-weight: normal; 
+    font-family: 'Oswald', sans-serif;
+} 
+
+h3 { 
+    margin-top: 30px;
+} 
+
+.section-title { 
+    margin-bottom: 20px;
+} 
+
+p { 
+    margin: 0 0 10px;
+} 
+
+.clearfix::after, .dl-horizontal dd::after, .container::after, .container-fluid::after, .row::after, .form-horizontal .form-group::after, .btn-toolbar::after, .btn-group-vertical > .btn-group::after, .nav::after, .navbar::after, .navbar-header::after, .navbar-collapse::after, .pager::after, .panel-body::after, .modal-footer::after { 
+    clear: both;
+} 
+
+.form-group { 
+    margin-bottom: 15px;
+} 
+
+
+
+
+label { 
+    display: inline-block; 
+    max-width: 100%; 
+    margin-bottom: 5px; 
+    font-weight: 700;
+} 
+
+label { 
+    color: #777;
+} 
+
+input { 
+    margin: 0; 
+    font: inherit; 
+    color: inherit;
+} 
+
+input { 
+    line-height: normal;
+} 
+
+input { 
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit;
+} 
+
+.form-control { 
+    display: block; 
+    width: 100%; 
+    height: 34px; 
+    padding: 6px 12px; 
+    font-size: 14px; 
+    line-height: 1.42857143; 
+    color: #555; 
+    background-color: #fff; 
+    background-image: none; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075); 
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075); 
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s; 
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s; 
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+} 
+
+.form-control { 
+    display: block; 
+    width: 100%; 
+    height: 41px; 
+    padding: 6px 12px; 
+    font-size: 14px; 
+    line-height: 2.428571; 
+    color: #555; 
+    background-color: #F7F7F7; 
+    background-image: none; 
+    border: 1px solid #ccc; 
+    border-radius: 0px;
+} 
+
+textarea { 
+    margin: 0; 
+    font: inherit; 
+    color: inherit;
+} 
+
+textarea { 
+    overflow: auto;
+} 
+
+textarea { 
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit;
+} 
+
+textarea.form-control { 
+    height: auto;
+} 
+
+h5 { 
+    font-family: inherit; 
+    font-weight: 500; 
+    line-height: 1.1; 
+    color: inherit;
+} 
+
+h5 { 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+} 
+
+h5 { 
+    font-size: 14px;
+} 
+
+h5 { 
+    font-weight: normal; 
+    font-family: 'Oswald', sans-serif;
+} 
+
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#message.style-rdiQR {  
+   height:100px;  
+}  
